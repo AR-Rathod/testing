@@ -1,7 +1,7 @@
 package SeleniumProgramPackage;
 
 public class MinAndMax {
-	public class MinAndMax {
+	
 	
 	   public int max(int [] array) {
 	      int max = 0;
